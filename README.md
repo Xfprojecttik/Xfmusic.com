@@ -3,13 +3,6 @@
 body { background-color: green; }
 </style>
 <head>
-<style>
-ul { list-style-type: square;}
-table, td, th { border:1px
-solid black; }
-table { border-collapse: collapse; width: 30%;}
-th { height: 30px;}
-</style>
 <h1> MUZIKA NE JETEN TONE </1>
 </head>
 <body>

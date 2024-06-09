@@ -1,9 +1,6 @@
 <html>
-<style>
-body { background-color: green; }
-</style>
 <head>
-<h1> MUZIKA NE JETEN TONE </1>
+<h1> MUZIKA NE JETEN TONE </h1>
 </head>
 <body>
 <p> Rrymat muzikore: </p>
